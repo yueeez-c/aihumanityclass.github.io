@@ -36,7 +36,7 @@ This is the first time this course has been offered, but you can get some ideas 
 **Email:** Students should feel free to email me at [_evans@virginia.edu_](evans@virginia.edu) anytime and about anything you would like to discuss or think it would be good for me to know. I
 usually respond to emails quickly and reliably (at least I try to!), so if you don't hear back within 24 hours, please send a follow-up reminder.
 
-**Office Hours and Scheduling Meetings:** In Fall 2025, I have office hours on Thursdays 1:30-2:30pm. I will decide on a schedule for Spring 2026 office hours later. You don't need to
+**Office Hours and Scheduling Meetings:** I will have open office hours on **Fridays, 10:00-11:15am** in my office, Rice 507. You don't need to
   schedule an appointment to come to office hours &mdash; they are open to
   everyone. If you would like to schedule a meeting at another time, use
   [_https://davidevans.youcanbook.me/_](https://davidevans.youcanbook.me/)
