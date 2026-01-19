@@ -3,7 +3,7 @@ date = "14 Jan 2026"
 draft = false
 title = "Tables for 15 Jan"
 author = "David Evans"
-slug = "tablemap"
+slug = "tablemap-15jan"
 +++
 
 Here's the Table Teams map for the next class:
