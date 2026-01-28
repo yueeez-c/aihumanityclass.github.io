@@ -21,7 +21,7 @@ Then, we discussed the two articles that were assigned – _AI 2027_ and _AI as 
 # Professor Evans' Take on _Machines of Loving Grace_:
 
 <figure style="text-align: center;">
-  <img src="/images/list.png" alt="Amodei's list" style="display: block; margin: 0 auto;">
+  <img src="/images/list.png" width="60%" alt="Amodei's list" style="display: block; margin: 0 auto;">
   <figcaption>
     <strong>Figure 1:</strong> Amodei's List (<a href="https://www.dropbox.com/scl/fi/vcq2qpxuzyjmah26uzryw/cs4501ha-s26-class4.pdf?rlkey=v571s5vyowsd0ifykr8gu1qyv&e=2&dl=0">Source</a>)
   </figcaption>
