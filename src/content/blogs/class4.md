@@ -7,6 +7,10 @@ author = "Team 10"
 
 **Blogging Team 10**: Nurdin Hossain, Ruizhang Chen, [ADD MORE NAMES HERE]
 
+# Summary:
+
+During our fourth class, we had riveting discussions on how AI will affect our future. Table 2 began with a discussion of data center resistance, sharing recent developments in the Virginia government regarding data center reforms. Comments from the class focused on the presence of data centers in wealthier areas as well as the potential benefits and drawbacks of data centers. Afterwards, we discussed the two articles that were assigned – _AI 2027_ and _AI as Normal Technology_. While the class generally agreed that _AI as Normal Technology_ seems like a more realistic take on the future of AI, we also acknowledged that, while _AI 2027_ feels like a dystopian world, the writers are well-regarded within their field and make notoriously successful predictions. As AI continues to grow, we see, in real-time, government regulations coming into play, and while the world of _AI 2027_ seems intimidating, active resistance to AI dominance makes the future seem a little less scary.
+
 # Professor Evans' Take on _Machines of Loving Grace_:
 
 <figure style="text-align: center;">
