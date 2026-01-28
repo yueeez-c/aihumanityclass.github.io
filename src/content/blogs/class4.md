@@ -10,7 +10,7 @@ author = "Team 10"
 # Professor Evans' Take on _Machines of Loving Grace_:
 
 <figure style="text-align: center;">
-  <img src="/workspaces/aihumanityclass.github.io/src/static/images/amodeisList.tiff" alt="Amodei's list" style="display: block; margin: 0 auto;">
+  <img src="/images/list.png" alt="Amodei's list" style="display: block; margin: 0 auto;">
   <figcaption>
     <strong>Figure 1:</strong> Amodei's List (<a href="https://www.dropbox.com/scl/fi/vcq2qpxuzyjmah26uzryw/cs4501ha-s26-class4.pdf?rlkey=v571s5vyowsd0ifykr8gu1qyv&e=2&dl=0">Source</a>)
   </figcaption>
@@ -19,7 +19,7 @@ author = "Team 10"
 Although Amodei's list has covered some of the areas in which AI has or will have significant impack, Professor Evans points out tha there's still something missing on the list. One thing to notice is that everything in his list mostly affects “rich” and “healthy” people’s daily lives. It may be difficult for average people to get access to the new technology.
 
 <figure style="text-align: center;">
-  <img src="/workspaces/aihumanityclass.github.io/src/static/images/aiImproveDailyLife.tiff" alt="Potential Areas that AI may have impact on" style="display: block; margin: 0 auto;">
+  <img src="/images/lives.png" alt="Potential Areas that AI may have impact on" style="display: block; margin: 0 auto;">
   <figcaption>
     <strong>Figure 2:</strong> Potential areas that AI may have impact on (<a href="https://www.dropbox.com/scl/fi/vcq2qpxuzyjmah26uzryw/cs4501ha-s26-class4.pdf?rlkey=v571s5vyowsd0ifykr8gu1qyv&e=2&dl=0">Source</a>)
   </figcaption>
@@ -29,18 +29,18 @@ Although Amodei's list has covered some of the areas in which AI has or will hav
 As AI continues to develop, we can soon see some improvement brought into our daily lives by AI in the next 5-10 years. Transportataion, for intance, has seen huge progress over the past few years. Waymo has started testing its fully autonomous driving car in California, and Texas. Fullly autonomous vehcles are getting closer and closer. We may also experience change in the way we communicate. Internet has revloluted communication. It brought people closer to each other although we are still far away phisically. AI may even bring this a step further in the way we have seen Internet did. We hope to end global poverty with the help of AI, but we may be to optimistic about this. 5-10 year seems too short of a timeframe. On 2014, when Professor Evans taught CS 4414, people thought that poverty would end in 15 years. Time is almost up. There's still a long way to go.
 
 <figure style="text-align: center;">
-  <img src="/workspaces/aihumanityclass.github.io/src/static/images/drinkMachine.tiff" alt="Drink distributing machine="display: block; margin: 0 auto;">
+  <img src="/images/ekocenter.webp" alt="Drink distributing machine="display: block; margin: 0 auto;">
   <figcaption>
-    <strong>Figure 3:</strong> Drink distributing machine (<a href="https://www.dropbox.com/scl/fi/vcq2qpxuzyjmah26uzryw/cs4501ha-s26-class4.pdf?rlkey=v571s5vyowsd0ifykr8gu1qyv&e=2&dl=0">Source</a>)
+    <strong>Figure 3:</strong> Drink distributing machine (<a href="https://www.fooddive.com/news/have-you-seen-coca-colas-high-tech-ekocenters/179137/">Source</a>)
   </figcaption>
 </figure>
 
-Dean Kamen is an American engineer and inventor. He opened Rice Hall on 2011. Among over 1000 invention of his, there is a revolutionary clean water machine, called Slingshot. The Slingshot process operates by means of vapor compression distillation, requires no filters, and can operate using cow dung as fuel. This machine was designed to solve the global water crisis. Did it solve the problem? Not quite. If we look at the share of deaths attributed to unsafe water sources, it did not go down. Later Slingshot was redesign into the famous CocaCola Freestyle. It turned out later that it's easier to provide mass access to all kinds of sodas) than mass access to clean water.
+Dean Kamen is an American engineer and inventor. He opened Rice Hall on 2011. Among over 1000 invention of his, there is a revolutionary clean water machine, called Slingshot. The Slingshot process operates by means of vapor compression distillation, requires no filters, and can operate using cow dung as fuel. This machine was designed to solve the global water crisis. Did it solve the problem? Not quite. If we look at the share of deaths attributed to unsafe water sources, it did not go down. Later Slingshot was redesign into the famous CocaCola Freestyle. It turned out later that it's easier to provide mass access to all kinds of sodas than mass access to clean water.
 
 # News: [Data Center Resistance](https://docs.google.com/presentation/d/1vNjUv6BS0hylf2qBSCKA7JbJmYXFvwakFKG6oy3dMCA/edit?slide=id.p#slide=id.p)
 
 <figure style="text-align: center;">
-  <img src="/workspaces/aihumanityclass.github.io/src/static/images/server.webp" alt="Inside look at Google data center" style="display: block; margin: 0 auto;">
+  <img src="/images/server.webp" alt="Inside look at Google data center" style="display: block; margin: 0 auto;">
   <figcaption>
     <strong>Figure 4:</strong> Inside view of a Google data center (<a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/googles-data-centers-inside-look/">Link</a>)
   </figcaption>
@@ -55,7 +55,7 @@ Apart from making electricty less affordable and paying less money than what peo
 Although data centers face pushback from people on both ends of the poltical spectrum, the issue is much more nuanced. Although they consume significant amounts of electricity and have had noticable negative externalities on some local communities, there are arguments that these "bads" don't outweigh the "goods". For one, some lawmakers believe that data centers can act as a strong source of economic growth for Virginia. Additionally, although data centers currently consume more than [4% of the US's electricity consumption](https://www.pewresearch.org/short-reads/2025/10/24/what-we-know-about-energy-use-at-us-data-centers-amid-the-ai-boom/?utm_source=chatgpt.com) and is projected to more than double than figure by 2030, they only consume [1% of global electricity and emit a measly 0.5% of greenhouse gas emissions](https://www.carbonbrief.org/ai-five-charts-that-put-data-centre-energy-use-and-emissions-into-context/?utm_source=chatgpt.com). Some may look at these figures and argue that the benefits received from unlimited AI access in everyone's pockets, 24/7 news streaming, connectivity through social media, and more largely outweigh the consumption risks. 
 
 <figure style="text-align: center;">
-  <img src="/workspaces/aihumanityclass.github.io/src/static/images/energy.webp" alt="Data center energy usage in the US" style="display: block; margin: 0 auto;">
+  <img src="/images/energy.webp" alt="Data center energy usage in the US" style="display: block; margin: 0 auto;">
   <figcaption>
     <strong>Figure 5:</strong> Data center energy usage in the US (<a href="https://www.pewresearch.org/short-reads/2025/10/24/what-we-know-about-energy-use-at-us-data-centers-amid-the-ai-boom/?utm_source=chatgpt.com">Link</a>)
   </figcaption>
@@ -66,7 +66,7 @@ Overall, the question on how "good" or "bad" data centers are is a murky one at 
 ## Discussion Points
 
 <figure style="text-align: center;">
-  <img src="/workspaces/aihumanityclass.github.io/src/static/images/map.png" alt="Map of data centers around the US" style="display: block; margin: 0 auto;">
+  <img src="/images/map.png" alt="Map of data centers around the US" style="display: block; margin: 0 auto;">
   <figcaption>
     <strong>Figure 6:</strong> Map of data centers around the US (<a href="https://www.datacentermap.com/usa/">Link</a>)
   </figcaption>
