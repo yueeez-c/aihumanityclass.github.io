@@ -6,8 +6,15 @@
     <description>Recent content on AI and Humanity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://aihumanityclass.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Readings for Week 4</title>
+      <link>https://aihumanityclass.github.io/readings-for-week-4/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aihumanityclass.github.io/readings-for-week-4/</guid>
+      <description>&lt;h2 id=&#34;clinical-use-of-ai-in-medicine&#34;&gt;Clinical use of AI in Medicine&lt;/h2&gt;&#xA;&lt;p&gt;Reading for Tuesday, 3 February (repeaded from &lt;a href=&#34;https://aihumanityclass.github.io/readings-for-week-3/&#34;&gt;Previous Post&lt;/a&gt;, but with date updated due to snow day):&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ethan Goh, Robert J. Gallo, Eric Strong, Yingjie Weng, Hannah Kerman, Jason A. Freed, Joséphine A. Cool, Zahir Kanjee, Kathleen P. Lane, Andrew S. Parsons, Neera Ahuja, Eric Horvitz, Daniel Yang, Arnold Milstein, Andrew P. J. Olson, Jason Hom, Jonathan H. Chen and Adam Rodman.&#xA;&lt;em&gt;GPT-4 assistance for improvement of physician performance on patient care tasks: a randomized controlled trial&lt;/em&gt;. Nature Medicine, February 2025. [&lt;a href=&#34;https://aihumanityclass.github.io/docs/goh2025.pdf&#34;&gt;PDF Link&lt;/a&gt;] [&lt;a href=&#34;https://www.nature.com/articles/s41591-024-03456-y&#34;&gt;Web Link&lt;/a&gt;]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ai-bias-and-interpretability&#34;&gt;AI Bias and Interpretability&lt;/h2&gt;&#xA;&lt;p&gt;Our next main topic, which will be for the Thursday, 5 February and Tuesday, 10 February, is on biases in AI systems and how to measure and mitigate them. There is already a vast literature on this topic, and entire courses and research agendas focused on it, so we will only see a small slice of it in these two class (and may have more classes later that go in more depth or touch on other aspects).&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Blog for Class 3 Posted</title>
       <link>https://aihumanityclass.github.io/blog-for-class-3-posted/</link>
