@@ -21,12 +21,7 @@ With technology like AlphaFold and T7-Oracle advancing and integrating into fiel
 
 This is why AI bias and genomics belong in the same conversation. As genetic data becomes more digital and AI-driven, these biased decisions will pose a huge risk to patients, creating unfair outcomes if not unsafe/dangerous ones. If these models continue to be trained on incomplete and biased data, they will only be reinforcing existing inequalities in healthcare instead of fixing them with the new speed and computational power they provide.
 
-<figure style="text-align: center;">
-  <img src="/images/class5-img-2.webp" alt="T7-ORACLE diagram" style="display: block; margin: 0 auto;">
-  <figcaption>
-    Figure 1: Conceptual diagram of the T7-ORACLE accelerated protein evolution system in E. coli. (<a href="https://www.nature.com/articles/s41589-025-02065-1">Source</a>)
-  </figcaption>
-</figure>
+<center><img src="/images/class5-img-1.webp" width=80% alt=""></img> [Figure 1: Conceptual diagram of the T7-ORACLE accelerated protein evolution system in E. coli.](https://www.nature.com/articles/s41589-025-02065-1)<center>
 
 ## News Discussion
 
@@ -37,12 +32,7 @@ The discussion focused on how genomics has become more digital and what risks co
 
 The presentation was based on the assigned articles for the week: [_Highly accurate protein structure prediction with AlphaFold_](https://aihumanityclass.github.io/docs/alphafold2-jumper2021.pdf) and [_AI in Science: Emerging evidence from AlphaFold 2_](https://www.innovationgrowthlab.org/wp-content/uploads/2025/11/ai_in_science_af2_igl_summary.pdf).
 
-<figure style="text-align: center;">
-  <img src="/images/class5-img-2.webp" alt="AlphaFold protein" style="display: block; margin: 0 auto;">
-  <figcaption>
-    Figure 2: Protein developed by AlphaFold. (<a href="https://alphafold.ebi.ac.uk/">Source</a>)
-  </figcaption>
-</figure>
+<center><img src="/images/class5-img-2.webp" width=80% alt=""></img> [Figure 2: Protein developed by AlphaFold.](https://alphafold.ebi.ac.uk/)<center>
 
 The lead discussion for this class was presented by Team 7 regarding AlphaFold and Protein Structure Prediction. Team 7 discussed the potential benefits and concerns of AlphaFold’s involvement in protein research. 
 
