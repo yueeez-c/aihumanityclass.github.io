@@ -5,15 +5,13 @@ title = "Class 7: AI Bias and Interpretability"
 author = "Team [1]"
 +++
 
-You can use this template for your blog, but also look at previous examples from other blogging teams for help on structuring your blog.
+**Blogging Team [1]**: Tristan Grubbs, Srikar Bangaru, Sarah Francis, Amanda Appiah-Yeboah, Matthew Janicki 
 
-In general, writing for the web is different from writing for other media. You should break your text into fairly short paragraphs, and including images and links is highly encouraged! 
+# News: NVIDIA and OpenAI Deal
 
-Replace this with your blog!
+<img src="/images/nvidia.png" width=80% alt="This is the course logo"></img>
 
-**Blogging Team [1]**: ADD NAMES
 
-# Marking Big Heading
 
 ## Little Heading
 
