@@ -48,6 +48,3 @@ https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sen
 https://fairmlbook.org/classification.html 
 https://www.ashbyhq.com/talent-trends-report/reports/2023-recruiter-productivity-trends-report
 https://apnews.com/article/trump-discrimination-ai-eeoc-disparate-impact-a2e8aba11f3d3f095df95d488c6b3c40
-
-To include an image, store the image file in src/content/static/images/. Then, use
-<img src="/images/humanitylogo.png" width=80% alt="This is the course logo"></img>
