@@ -9,7 +9,7 @@ author = "Team [1]"
 
 # News: NVIDIA and OpenAI Deal
 
-<img src="/images/nvidia.png" width=80%></img>
+<img src="/static/images/nvidia.png" width=80%></img>
 
 Team 5 started class by talking about how the original deal between NVIDIA and OpenAI had broken down. The current deal stands closer to 20 billion being invested into OpenAI, a far cry from the original 100 billion. Separately, NVIDIA has been hedging its bets elsewhere with a 10 billion dollar deal with OpenAI competitor Anthropic. This is part of a larger trend in the world of AI, where companies in the space are making large investments in each other to fund the capital-intensive industry. This circular investing has clouded the current investment picture, making it seem like there is more money in the industry than there actually is.
 
