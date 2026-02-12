@@ -12,14 +12,11 @@ author = "Team 1"
 
 ## Articles
 
-- Down, A., & Milmo, D. (2026, February 5). What does the disappearance of a $100bn deal mean for the AI economy?. The Guardian. 
-[https://www.theguardian.com/technology/2026/feb/05/disapperance-100bn-deal-ai-circular-economy-funding-nvidia-openai?utm_source=chatgpt.com](https://www.theguardian.com/technology/2026/feb/05/disapperance-100bn-deal-ai-circular-economy-funding-nvidia-openai?utm_source=chatgpt.com)
+- Down, A., & Milmo, D. (2026, February 5). [_What does the disappearance of a $100bn deal mean for the AI economy?_](https://www.theguardian.com/technology/2026/feb/05/disapperance-100bn-deal-ai-circular-economy-funding-nvidia-openai). The Guardian. 
 
-- Aubrey, K. (2026, January 5). Inside the nvidia rubin platform: Six new chips, one AI supercomputer. NVIDIA Technical Blog. [https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer/](https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer/)
+- Aubrey, K. (2026, January 5). [_Inside the Nvidia Rubin platform: Six new chips, one AI supercomputer_](https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer/). NVIDIA Technical Blog. 
 
 ## Discussion
-
-- The Guardian, [_What does the disappearance of a $100bn deal mean for the AI economy?_](https://www.theguardian.com/technology/2026/feb/05/disapperance-100bn-deal-ai-circular-economy-funding-nvidia-openai), 5&nbsp;Feb&nbsp;2026.
 
 Team 5 started class by talking about how the original deal between NVIDIA and OpenAI had broken down. The current deal stands closer to 20 billion being invested into OpenAI, a far cry from the original 100 billion. Separately, NVIDIA has been hedging its bets elsewhere with a 10 billion dollar deal with OpenAI competitor Anthropic. This is part of a larger trend in the world of AI, where companies in the space are making large investments in each other to fund the capital-intensive industry. This circular investing has clouded the current investment picture, making it seem like there is more money in the industry than there actually is.
 
