@@ -28,7 +28,7 @@ Due to the current nature of the industry, talks of an “AI bubble” in the ma
 Besides the NVIDIA and OpenAI deal, other market leaders are moving forward with AI at the forefront of their future. Google is doubling its AI spending to 185 billion after stronger than expected earnings. Elon Musk’s SpaceX has bought xAI, creating a 1.25 trillion dollar company, which could be one of the largest IPOs ever in the near future. Both sides of the conversation claim these events support their view of the future of the AI industry, which goes to show the unpredictability of the industry’s future.
 
 # Lead: AI Bias and Intertretability
-**Presented by Team 9:**
+**Presented by Team 9: [Slides](https://docs.google.com/presentation/d/1MAlhsWZtCgzTyqjP-g15MuEG-kev8lhvWcV-t65bVAA/edit?usp=sharing)**
 
 ## Readings
 - Kyra Wilson and Aylin Caliskan. Gender, Race, and Intersectional Bias in Resume Screening via Language Model Retrieval. AAAI/ACM Conference on AI, Ethics, and Society (AIES2024). [https://ojs.aaai.org/index.php/AIES/article/view/31748/33915](https://ojs.aaai.org/index.php/AIES/article/view/31748/33915)
