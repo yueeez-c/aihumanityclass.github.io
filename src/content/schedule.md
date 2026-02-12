@@ -273,7 +273,7 @@ slug = "schedule"
   <td>Thursday 29 Jan</td>
   <td>AI Genomics (3)</td>
   <td>AlphaFold (7)</td>
-  <td><a href="/blogs/class5/">Class 5</a> (12)</td>
+  <td><a href="/blogs/class5/">Class 5</a> (11)</td>
   </tr>
   <tr>
   <td>Tuesday 3 Feb</td>
@@ -283,9 +283,9 @@ slug = "schedule"
   </tr>
     <tr>
   <td>Thursday 5 Feb</td>
-  <td>5</td>
-  <td>9</td>
-  <td>1</td>
+  <td>Circular AI Investments (5)</td>
+  <td>AI Bias and Interpretability (9)</td>
+  <td><a href="/blogs/class7/">Class 7</a> (1)</td>
   </tr>
   <tr>
   <td>Tuesday 10 Feb</td>
