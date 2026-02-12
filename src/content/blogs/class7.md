@@ -38,7 +38,7 @@ Besides the NVIDIA and OpenAI deal, other market leaders are moving forward with
 
 - Kyra Wilson and Aylin Caliskan. [_Gender, Race, and Intersectional Bias in Resume Screening via Language Model Retrieval_](https://ojs.aaai.org/index.php/AIES/article/view/31748/33915). AAAI/ACM Conference on AI, Ethics, and Society (AIES2024). [https://ojs.aaai.org/index.php/AIES/article/view/31748/33915](https://ojs.aaai.org/index.php/AIES/article/view/31748/33915)
 
-- Chapter 3: Classification from Solon Barocas, Moritz Hardt, Arvind Narayanan. Fairness and machine learning: Limitations and Opportunities (“FairML book”). MIT Press, 2023. (The full book is openly available at https://fairmlbook.org)].) [https://fairmlbook.org/classification.html](https://fairmlbook.org/classification.html)
+- [Chapter 3: _Classification_](https://fairmlbook.org/classification.html) from Solon Barocas, Moritz Hardt, Arvind Narayanan. Fairness and machine learning: Limitations and Opportunities (“FairML book”). MIT Press, 2023. (The full book is openly available at [https://fairmlbook.org](https://fairmlbook.org).
 
 ## Discussion
 
