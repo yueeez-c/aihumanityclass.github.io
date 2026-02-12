@@ -33,22 +33,25 @@ Due to the current nature of the industry, talks of an “AI bubble” in the ma
 Besides the NVIDIA and OpenAI deal, other market leaders are moving forward with AI at the forefront of their future. Google is doubling its AI spending to 185 billion after stronger than expected earnings. Elon Musk’s SpaceX has bought xAI (also founded by Elon Musk), creating a 1.25 trillion dollar company, which could be one of the largest IPOs ever in the near future. Both sides of the conversation claim these events support their view of the future of the AI industry, which goes to show the unpredictability of the industry’s future.
 
 
-# Lead: AI Bias and Intertretability
+# Lead: AI Bias and Interpretability
+
 **Presented by Team 9: [Slides](https://docs.google.com/presentation/d/1MAlhsWZtCgzTyqjP-g15MuEG-kev8lhvWcV-t65bVAA/edit?usp=sharing)**
 
 ## Readings
-- Kyra Wilson and Aylin Caliskan. Gender, Race, and Intersectional Bias in Resume Screening via Language Model Retrieval. AAAI/ACM Conference on AI, Ethics, and Society (AIES2024). [https://ojs.aaai.org/index.php/AIES/article/view/31748/33915](https://ojs.aaai.org/index.php/AIES/article/view/31748/33915)
+
+- Kyra Wilson and Aylin Caliskan. [_Gender, Race, and Intersectional Bias in Resume Screening via Language Model Retrieval_](https://ojs.aaai.org/index.php/AIES/article/view/31748/33915). AAAI/ACM Conference on AI, Ethics, and Society (AIES2024). [https://ojs.aaai.org/index.php/AIES/article/view/31748/33915](https://ojs.aaai.org/index.php/AIES/article/view/31748/33915)
 
 - Chapter 3: Classification from Solon Barocas, Moritz Hardt, Arvind Narayanan. Fairness and machine learning: Limitations and Opportunities (“FairML book”). MIT Press, 2023. (The full book is openly available at https://fairmlbook.org)].) [https://fairmlbook.org/classification.html](https://fairmlbook.org/classification.html)
 
 ## Discussion
-<img src="/images/fairness.png" width=60% alt=""></img>
 
 Team 9 continued discussions, highlighting the discrepancies that exist in hiring systems, which are only worsened with the deployment of AI. 
 
-Kyra Wilson and Aylin Caliskan, a PhD candidate and an Assoc. Professor from the University of Washington, both work in LLM and NLP research. As part of their work, the research article that Team 9 presented focuses on hiring tools that leverage technologies such as LLMs and NLP. While AI screening-systems may be seemingly faster and more efficient, the authors investigated to see whether the efficiency comes at the cost of biases.
+[Kyra Wilson](https://kyrawilson.github.io/me/about/), a PhD candidate, and [Aylin Caliskan]((https://faculty.washington.edu/aylin/)), an Assoc. Professor from the University of Washington, both work in LLM and NLP research. Their research article, [_Gender, Race, and Intersectional Bias in Resume Screening via Language Model Retrieval_](https://ojs.aaai.org/index.php/AIES/article/view/31748/33915), focuses on hiring tools that leverage technologies such as LLMs and NLP.
 
-As part of their results, the researchers found strong evidence for biases in AI-driven systems. They highlighted that resumes with white-sounding names were preferred approximately 85.1% of the time, while female candidates were preferred only about 11.1% of the time, and Black male candidates were disadvantaged nearly 100% of the time. Interestingly though, when the name on the resume was changed, but qualifications were kept the exact same, the outcome was flipped. This is key because it showed that the AI-screening tool would rank and sort based on proxies like names and other racial or gender cues, as compared to qualifications or real merit. Furthermore, changing the frequency of certain names in the training corpus showed a change in bias direction, showing how the training data directly influences screening-model behaviors.
+While AI screening-systems may be seemingly faster and more efficient, the authors investigated to see whether the efficiency comes at the cost of biases. As part of their results, the researchers found strong evidence for biases in AI-driven systems. They highlighted that resumes with white-sounding names were preferred approximately 85.1% of the time, while female candidates were preferred only about 11.1% of the time, and Black male candidates were disadvantaged nearly 100% of the time. 
+
+Interestingly though, when the name on the resume was changed, but qualifications were kept the exact same, the outcome was flipped. This is key because it showed that the AI-screening tool would rank and sort based on proxies like names and other racial or gender cues, as compared to qualifications or real merit. Furthermore, changing the frequency of certain names in the training corpus showed a change in bias direction, showing how the training data directly influences screening-model behaviors.
 
 In light of these findings, Team 9 prompted the class to discuss “What is Bias?” and “What is fairness?”. These questions were interesting as the class discussed how to define these terms, as well as whether fairness is possible in these systems at all.
 
@@ -60,15 +63,16 @@ Furthermore, the concept of fairness from a statistical lens was also introduced
 
 Lastly, the class discussion ended on a broader look at several of the domains currently utilizing AI systems that are affected by AI bias. These domains include healthcare, criminal justice, finance, education, and employment. Overall, it was generally agreed upon that AI has tangible benefits for these domains, but also poses serious risks due to bias, and it is becoming increasingly important to consider bias and understand how it may be impacting our AI systems before mass implementing them.
 
+<center>
 <img src="/images/bias.png" width=60% alt=""></img>
+</center>
 
 # Additional Sources found by Team 9 for Dicussion:
-- Wilson, K. (n.d.). About. [https://kyrawilson.github.io/me/about/](https://kyrawilson.github.io/me/about/)
-- Yildirim, A. (n.d.). Faculty homepage. University of Washington. [https://faculty.washington.edu/aylin/](https://faculty.washington.edu/aylin/)
+
 - Aka, A., Palikot, E., Ansari, A., & Yazdani, N. (2025). Better together: Quantifying the benefits of AI-assisted recruitment. arXiv.[https://doi.org/10.48550/arXiv.2507.08029](https://doi.org/10.48550/arXiv.2507.08029)
 - Academy of Management. (2025). Symposium session. Academy of Management Proceedings. [https://doi.org/10.5465/AMPROC.2025.15911symposium](https://doi.org/10.5465/AMPROC.2025.15911symposium)
 - National Center for Biotechnology Information. (n.d.). Article PMC12823528. PubMed Central.[https://pmc.ncbi.nlm.nih.gov/articles/PMC12823528/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12823528/)
    ProPublica. (2016, May 23). Machine bias: There’s software used across the country to predict future criminals. And it’s biased against Blacks.[https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) 
 - Barocas, S., Hardt, M., & Narayanan, A. (n.d.). Classification. In Fairness and machine learning [https://fairmlbook.org/classification.html](https://fairmlbook.org/classification.html)
-- Ashby. (2023). 2023 recruiter productivity trends report.[https://www.ashbyhq.com/talent-trends-report/reports/2023-recruiter-productivity-trends-report](https://www.ashbyhq.com/talent-trends-report/reports/2023-recruiter-productivity-trends-report)
-- Associated Press. (n.d.). Trump administration weighs AI discrimination and disparate impact rules. [https://apnews.com/article/trump-discrimination-ai-eeoc-disparate-impact-a2e8aba11f3d3f095df95d488c6b3c40](https://apnews.com/article/trump-discrimination-ai-eeoc-disparate-impact-a2e8aba11f3d3f095df95d488c6b3c40)
+- Kevin Connolly. [Recruiter Productivity | 2025 Talent Trends Report](https://www.ashbyhq.com/talent-trends-report/reports/2023-recruiter-productivity-trends-report). Ashby, 2023.
+- Associated Press. [_Civil rights agency drops a key tool used to investigate workplace discrimination_](https://apnews.com/article/trump-discrimination-ai-eeoc-disparate-impact-a2e8aba11f3d3f095df95d488c6b3c40). 30 September 2025.
