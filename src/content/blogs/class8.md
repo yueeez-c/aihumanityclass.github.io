@@ -8,11 +8,11 @@ author = "Team 2"
 **Blogging Team 2**: Amelia Chen, Laxmi Ghanate, Ryan Russo, Shaurya Singh, Matthew Vu
 
 # News: AI Super Bowl Ads
-[Slides from Team 6](https://docs.google.com/presentation/d/1WXhtrGHppLSOi9YMIZsfHN_u1dNFpsJMddmC1Y3zVwA/edit?slide=id.g3c6c41f5f1b_0_21#slide=id.g3c6c41f5f1b_0_21)
+[Slides from Team 6](https://docs.google.com/presentation/d/1WXhtrGHppLSOi9YMIZsfHN_u1dNFpsJMddmC1Y3zVwA/edit?slide=id.g3c6c41f5f1b_0_21#slide=id.g3c6c41f5f1b_0_21) 
 
-Today’s new presentation highlighted AI Ads in the Super Bowl. 23% of ads in the Super Bowl were AI ads, indicative of AI companies (OpenAI, Anthropic, Google, Amazon/Ring, Meta) attempting to shed doubt through advertising. Two ads were completely AI generated, one by Svedka Vodka and another by Artlist, an AI toolkit for artists and creators. Evident in each of these advertisements are each company’s perspective: Anthropic/Claude conveys their guarantee of safety regulations and responsible scaling; Google displays its commitment to the White House risk-based approach to AI; Meta introduced their AI-supported Meta Glasses in disregard for the EU’s AI safety code of practice; Svedka claimed robots as a reminder to be pro-human, and OpenAI demonstrated its desire for the further incorporation of AI in giving up stringent regulations.
+Team 6's news presentation highlighted AI Ads in the Super Bowl. An estimated 23% of ads in the Super Bowl were AI ads, indicative of AI companies (OpenAI, Anthropic, Google, Amazon/Ring, Meta) attempting to shed doubt through advertising. Two ads were completely AI generated, one by Svedka Vodka and another by Artlist, an AI toolkit for artists and creators. Evident in each of these advertisements are each company’s perspective: Anthropic/Claude conveys their guarantee of safety regulations and responsible scaling; Google displays its commitment to the White House risk-based approach to AI; Meta introduced their AI-supported Meta Glasses in disregard for the EU’s AI safety code of practice; Svedka claimed robots as a reminder to be pro-human; OpenAI demonstrated its desire for the further incorporation of AI in giving up stringent regulations.
 
-Anthropic mocked ChatGPT’s style of speech in their [ad](https://www.youtube.com/watch?v=kQRu7DdTTVA) while also enlisting an actor who looks similar to OpenAI CEO Sam Altman, claiming that “Ads are coming to AI. But not to Claude.” Altman called the ad dishonest, arguing that having ChatGPT have a free tier with ads furthers AI access and user agency. Much of the public disapproved of Altman’s response, defending the point that Anthropic was making and explaining how Altman “inadvertently validated Anthropic as a serious threat” (Lichtenberg). The notion of chatbots running ads also sparked public discourse on human emotional reliance on chatbots, and whether or not the gains in information chatbots experience will be equivalently translated to people.
+Anthropic mocked ChatGPT’s style of speech in their [ad](https://www.youtube.com/watch?v=kQRu7DdTTVA) claiming that “Ads are coming to AI. But not to Claude.” Altman called the ad dishonest, arguing that having ChatGPT have a free tier with ads furthers AI access and user agency. Much of the public disapproved of Altman’s response, defending the point that Anthropic was making and explaining how Altman “inadvertently validated Anthropic as a serious threat” (Lichtenberg). The notion of chatbots running ads also sparked public discourse on human emotional reliance on chatbots, and whether the gains in information chatbots experience will be equivalently translated to people.
 
 <center>
 <img src="/images/anthropic_ad.png" width=60% alt="Anthropic Super Bowl Ad"></img><br>
@@ -22,35 +22,23 @@ Anthropic mocked ChatGPT’s style of speech in their [ad](https://www.youtube.c
 </center>
 
 ## Discussion
-**Is Advertising a good approach to making AI affordable and accessible?What alternatives are there?**
-- Not a specific solution but ads can be problematic or a hindrance to users 
-- Reduces credibility of platforms (Ex. TikTok)
-- Shows Shift of Priorities from User to Advertisers
-- Ethical concerns of not knowing when there are ads 
-- Offset ethical concerns with private companies rather the government 
-- Advertising not as an inherently bad thing given the companies don’t have a lot of alternatives 
-- EasyBib Example - Watching Ad then gaining access then watching ad after certain amount of usage
-- Separating the ads from the LLM could cause the LLM to give contrary responses 
-- Appropriateness of Advertisements - Is health related questions an appropriate to advertise
+**Is Advertising a good approach to making AI affordable and accessible? What alternatives are there?**
 
-**Is it ethical for AI companies to use advertising?Do these ads make AI feel like a tool we control, or have to accept?**
-- What is stopping negative ads from influencing vulnerable populations 
-- Advertisements could erode trust in AI 
-- Concerns about Personal Data being shared with advertisers
+In class, we discussed the point Sam Altman raised about AI ads potentially making AI more accessible. Some issues discussed with bringing ads to AI platforms or chatbots is that ads could reduce the credibility of these platforms. For example, there are ethical concerns when users do not know if something is an advertisement or not - something that has been found to be an issue on popular social media platforms. It could signal a shift of the priorities of large AI companies to lie with advertisers rather than users. 
 
-**Some ads frame AI as helping humans be “more human”. What are the benefits or ramifications of this statement?** 
+One example a classmate brought up was of the citation website EasyBib where users are asked to watch ads in order to use the site free of charge. Students mentioned advertising does not have to be seen as an inherently bad thing if companies do not have alternatives, but it will be important in the future for AI companies to keep ads separate from their platforms.
 
-# The Path from “Don’t Be Evil”
-- Search Engines Flooded with Ads
-- Could We see similar trend from AI Models
+**Is it ethical for AI companies to use advertising? Do these ads make AI feel like a tool we control, or have to accept?**
+
+We discussed further the ethical implications of advertising in AI platforms. A classmate brought up the types of ads these platforms should distribute, and there are greater concerns with high-risk ads such as healthcare related advertisements. It could be problematic for a chatbot system that is well-trusted by a user to provide sponsored information on health and safety. In general, advertising could erode the public's trust in AI models. This point is especially important when considering the large amounts of personal data that could be shared with advertising companies working with AI companies.
 
 # Main Topic: AI Interpretability
 [Slides from Team 10](https://docs.google.com/presentation/d/1yQeRo0TUDMedH1S8M8NrI9meELuVGQR0g4lKDGUGM7w/edit?slide=id.p#slide=id.p) (Hannah Cohen, Hemanth Saravanan, Nurdin Hossain, Pranav Goteti, Ruizhang Chen)
 
 ## Discussion
-Class 8’s main discussion centered around the paper “[Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead](https://aihumanityclass.github.io/docs/rudin2019.pdf)” by Cynthia Rudin, published in Nature Machine Intelligence in 2019. Cynthia Rudin is a Computer Science professor at Duke University whose research focus is on interpretable ML and the application of models to high-stakes decision making. She received the 2022 Association for the Advancement of Artificial Inteligence (AAAI) Squirrel AI Award, an award for promoting positive uses of AI.
+Class 8’s main discussion centered around the paper “[Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead](https://aihumanityclass.github.io/docs/rudin2019.pdf)” by Cynthia Rudin, published in Nature Machine Intelligence in 2019. Cynthia Rudin is a Computer Science professor at Duke University whose research focus is on interpretable ML and the application of models to high-stakes decision-making. She received the 2022 Association for the Advancement of Artificial Intelligence (AAAI) Squirrel AI Award, an award for promoting positive uses of AI.
 
-To begin a discussion on AI interpretability, a consensus must be reached on the definition of interpretability. Rudin make a distinction between interpretability and explainability:
+To begin a discussion on AI interpretability, a consensus must be reached on the definition of interpretability. Rudin makes a distinction between interpretability and explainability:
 
 | Interpretability                                                                                                                                               | Explainability                                                                                                                                       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -96,18 +84,12 @@ Current AI regulation in both the EU and US illustrate the reluctance to condemn
 
 ## Discussion
 **Do you think any of these reasons for using black box models over interpretable models are valid? Rudin argues they are not – but do you agree?**
-- No viable alternative interpretable model that can replace current usage
-- Hard to enforce Rudin’s ideas for preventing black box models
-- “No black box should be deployed when there exists an interpretable model with the same level of performance.”
-- “…Organizations that introduce black box models would be mandated to report the accuracy of interpretable modelling methods.”
 
-**Do you think Rudin’s proposals are enforceable? How does a company prove that no interpretable model exists? Do you think her proposal would stifle AI innovation?**
+The class discussed that although interpretable models sound ideal there is no viable alternative interpretable model that could replace current usage. Furthermore, it is hard to enforce Rudin's ideas for restricting black box models. This is demonstrated by the lack of current regulation on the topic.
 
 **When do you think it is worth it to sacrifice interpretability for raw accuracy? Does that vary based on a model’s use case?**
-- Different risk levels determining accountability 
-- Industry Dependent, “No Free Market on Healthcare” unlike movie/restaurant recs
-- Counterargument of why trust the interpretation and want the model with the highest accuracy 
-- If there is 100% accuracy no one would care how decisions are made
+
+It was brought up that different risk levels can determine the level of accountability. For example, in areas such as crime or healthcare greater human accountability should be taken on interpretability of models. A counterargument to this would be, why trust the interpretation if the model can produce a high raw accuracy? If models were predicting at 100% accuracy there may be less emphasis on understanding them despite biases or errors.
 
 # Sources
 Angwin, Julia, et al. _“Machine Bias — Risk Assessments in Criminal Sentencing.”_ _ProPublica_, 2016, [https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing). Accessed 12 February 2026.
