@@ -1,13 +1,13 @@
 +++
-date = "2026-02-03T08:25:00-05:00"
+date = "2026-02-17T07:25:00-05:00"
 draft = false
 weight = 2
-title = "Tables for Feb 3-5"
+title = "Tables for Feb 17-19"
 author = "David Evans"
-slug = "tablemap-3feb"
+slug = "tablemap-17feb"
 +++
 
-Here's the Table Teams map for this week (Feb 3 and Feb 5 classes):
+Here's the Table Teams map for this week (Feb 17 and Feb 19 classes):
 <center>
-<img src="/images/tablemap-feb3.png" width="80%">
+<img src="/images/tablemap-feb17.png" width="80%">
 </center>
