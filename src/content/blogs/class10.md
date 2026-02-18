@@ -23,7 +23,11 @@ Team 8 began class with a discussion of the often invisible human labor that pow
 
 Team 8 featured several quotes from workers describing the conditions they face in these roles. “I work between 8 and 10 hours per day for an average of €6,” says Junbee, 22, from one of Cagayan de Oro’s slums. Another worker, John-Henry, said, “The alternative is selling drugs. But I want a future.”
 
-(image)
+<center><img src="/images/cagayan.png" width=50% alt=""></img><br>
+
+*Figure 1: Remotasks employees annotate data in a building rented by the company in Cagayan de Oro.
+Photo by Théophile Simon via Equal Times*
+</center>
 
 Team 8 introduced the author, Théophile Simon, a French freelance journalist who has focused on human rights and the ethics of AI since 2023. They also pointed out that Equal Times is a publication that covers labor rights and social justice issues globally. 
 
@@ -79,7 +83,11 @@ This led Team 12 into describing the details of the METR paper, a randomized con
 
 The results were surprising. Before starting, developers predicted AI would speed them up by 24%. After completing the study, they believed AI had sped them up by 20%. However, the data showed the opposite: developers took 19% longer when using AI tools. Team 12 emphasized that this study used real tasks and not artificial lab experiments and focused on experienced developers working in codebases they were familiar with. 
 
-(Image)
+<center>
+<img src="/images/screenrec.png" width="60%" alt="">
+
+*Figure 2: Source: https://arxiv.org/abs/2507.09089*
+</center>
 
 Team 12 offered their interpretation that when a developer has been working on a codebase for years, they’re more familiar with it than AI could be. Waiting for AI responses takes time, and reviewing AI-generated code for correctness adds overhead that may not pay off when the developer already knows what to do. 
 
