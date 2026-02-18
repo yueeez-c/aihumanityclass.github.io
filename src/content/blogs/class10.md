@@ -1,5 +1,5 @@
 +++
-title = "Class 10: Extractability"
+title = "Class 10: AI & Software Development"
 author = "Aaryan Asthana, Jason Chin, Sarah Petchel, Taylor Petrofski, Katherine Anne Rukavina"
 date = "2026-02-17"
 +++
@@ -9,7 +9,7 @@ date = "2026-02-17"
 
 ## News: The Filipino Workers at the Sharp End of AI
 
-**Presented by Team 7**: [Slides](https://myuva-my.sharepoint.com/:p:/g/personal/ysx7nx_virginia_edu/IQBny3KwaXbrTrw2aOMtKqg8Adot8WQGXez-xnxs2HsFFxo?e=CLeC74)
+**Presented by Team 8**: [Slides](https://myuva-my.sharepoint.com/:p:/g/personal/ysx7nx_virginia_edu/IQBny3KwaXbrTrw2aOMtKqg8Adot8WQGXez-xnxs2HsFFxo?e=CLeC74)
 
 ### Articles Discussed
 
