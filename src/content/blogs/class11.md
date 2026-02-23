@@ -1,16 +1,10 @@
 +++
 date = "22 Feb 2026"
 draft = true
-title = "Software Development using AI"
+title = "Class 11: Software Development using AI"
 author = "Team 5"
 +++
 
-You can use this template for your blog, but also look at previous examples from other blogging teams for help on structuring your blog.
-
-In general, writing for the web is different from writing for other media. You should break your text into fairly short paragraphs, and including images and links is highly encouraged! 
-
-Replace this with your blog!
-*Blogging Team [5]**: Carolyn Chen, Yuezhang Chen, Stella Hession, Iman Mohamed, Salonee Verma
 
 ## News: News: AI and… Love?
 
@@ -35,6 +29,13 @@ Replace this with your blog!
 
 ## Overview
 
+---
+You can use this template for your blog, but also look at previous examples from other blogging teams for help on structuring your blog.
+
+In general, writing for the web is different from writing for other media. You should break your text into fairly short paragraphs, and including images and links is highly encouraged!
+
+Replace this with your blog!
+*Blogging Team [5]**: Carolyn Chen, Yuezhang Chen, Stella Hession, Iman Mohamed, Salonee Verma
 
 # Marking Big Heading
 
