@@ -71,6 +71,14 @@ Team 1 introduced the report from the **Center for Security and Emerging Technol
 Team 1 transitions to the article on **StrongDM**’s “Dark Factory”. They described how StrongDM experimented with a three-person team in which AI agents wrote and tested all code, and the role of the humans was limited to designing specifications and scenarios. The hard rule was that humans could not write or review code, pushing the idea of AI-assisted development toward autonomy. StrongDM used end-to-end scenario testing and satisfaction thresholds instead of requiring all tests to pass. This process raises the question: If AI agents both generate and test the code, what standards are sufficient for trust?
 
 ## **Discussion:**
+
+**Discussion Question:** *If we trust satisfaction over code, is that enough for safety-critical systems or do you still want humans in the loop somewhere?*
+
+The majority of the discussion revolves around the safety tradeoffs between human and AI generated code. AI generated code faces problems such as security vulnerabilities, jailbreaking, and training bias. On the other hand, humans might cause damage through malpractice and access privileges. Team 4 raised the question that it is not about how AI is capable, but rather how much risk organizations are willing to accept in exchange for efficiency and technological advancement. The lead team responds to this question with a perspective of, “just because we can automate something doesn’t mean we should.” 
+
+Professor Evans has a positive perspective about this topic , pointing out that many real-world vulnerabilities are already found using automated scanning tools; AI automated scanning tools are often better than the existing automation; and missed vulnerabilities don’t automatically mean AI failed.
+
+
 ---
 ## Additional References
 
