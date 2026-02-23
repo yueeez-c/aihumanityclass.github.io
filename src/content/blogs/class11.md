@@ -10,9 +10,22 @@ author = "Team 5"
 
 **Presented by Team 9**: [Slides](https://docs.google.com/presentation/d/1TUlGu7fM)
 
-**Articles Discussed:**
+**Articles Discussed:** [You Don’t Need to Swipe Right. A.I. Is Transforming Dating Apps.](https://www.nytimes.com/2025/11/03/technology/ai-dating-apps.html)
+
+In today’s news section, Table 9 presented an AI dating platform that uses artificial intelligence to match singles based on values, lifestyles and political views. 
+
+Table 9 started by discussing the concept of a “romantic recession,” which some people argue we might be undergoing at the moment — Americans are marrying less and marrying at later ages, which might lead to an older population. There are a lot of reasons why a romantic recession might be happening, but one is the burnout that dating apps can create, even though 1 in 5 adults think algorithms can predict “love.” Does this make it harder or easier to find love? With the introduction of AI, this question can become quite vague. Some reasons people may use AI platforms like Datedrop to find love could be loneliness, which is on the rise.
+
+Although Table 9 had three questions for discussion, we were only able to discuss one in depth, although the others did influence the perspectives in table groups from prior small-group discussion. Our discussion focused around the question “How might AI affect emotional attachment and expectations in relationships?” 
 
 ## Discussion: How might AI affect emotional attachment and expectations in relationship?
+
+Table 10 started us off with discussing the unrealistic expectations AI sycophancy might lead to, while Table 4 was curious what differentiated it from other algorithms like Marriage Pact. The only difference seemed to be the use of an AI model rather than a rules-based algorithm, though. TA Bijan was skeptical of DateDrop because models take into account your perception of yourself instead of your true nature, while Table 4 was skeptical because of the gamification of dating through apps like these. 
+
+Table 12 proposed a new, but related discussion topic: what differentiates an AI matchmaker from a human matchmaker? We discussed human bias within matchmaking, which is comparable to the potential for AI bias as well. Some members of the class thought that the willingness to trust a matchmaker depends on the person, and some people may actually be more willing to trust an AI matchmaker than a human one.
+
+Finally, the class discussed the profit incentive for apps like these, and whether profit incentive is actually a valuable way to determine a company’s worth anyway. Tables were torn between confusion on how DateDrop’s business model operated, skepticism over the incentive for DateDrop to make good matches, and passion over simply making something that is effective and helpful, regardless of its cost or benefit.
+
 
 ---
 ## Lead Topic: Software Development using AI
