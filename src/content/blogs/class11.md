@@ -5,16 +5,14 @@ title = "Class 11: Software Development using AI"
 author = "Team 5"
 +++
 
-
-## News: News: AI and… Love?
+**Blogging Team [5]**: Carolyn Chen, Yuezhang Chen, Stella Hession, Iman Mohamed, Salonee Verma
+## **News: AI and… Love?**
 
 **Presented by Team 9**: [Slides](https://docs.google.com/presentation/d/1TUlGu7fM)
 
-### Articles Discussed
+**Articles Discussed:**
 
-1. 
-
-### Discussion: How might AI affect emotional attachment and expectations in relationship?
+## Discussion: How might AI affect emotional attachment and expectations in relationship?
 
 ---
 ## Lead Topic: Software Development using AI
@@ -23,19 +21,19 @@ author = "Team 5"
 [Slides](https://myuva-my.sharepoint.com/:p:/g/personal/byj4jn_virginia_edu/IQB78VPlVvfYR7iZr)
 
 **Reading:**
-- Jessica Ji, Jenny Jun, Maggie Wu, and Rebecca Gelles. Cybersecurity Risks of AI-Generated Code. CSET Report, November 2024. [Link](https://aihumanityclass.github.io/docs/CSET-Cybersecurity-Risks-of-AI-Generated-Code.pdf)
-- Simon Willison, How StrongDM’s AI team build serious software without even looking at the code. 7 February 2026. [Link] (https://simonwillison.net/2026/Feb/7/software-factory)
-- Nicholas Carlini, Building a C compiler with a team of parallel Claudes. Anthropic Blog, 5 February 2026. [Link] (https://www.anthropic.com/engineering/building-c-compiler) 
+- Jessica Ji, Jenny Jun, Maggie Wu, and Rebecca Gelles. Cybersecurity Risks of AI-Generated Code. CSET Report, November 2024. [Link](https://cset.georgetown.edu/publication/cybersecurity-risks-of-ai-generated-code/)
+- Simon Willison, How StrongDM’s AI team build serious software without even looking at the code. 7 February 2026. [Link](https://simonwillison.net/2026/Feb/7/software-factory)
+- Nicholas Carlini, Building a C compiler with a team of parallel Claudes. Anthropic Blog, 5 February 2026. [Link](https://www.anthropic.com/engineering/building-c-compiler) 
 
 ## Overview
 
+## Discussion: 
 ---
 You can use this template for your blog, but also look at previous examples from other blogging teams for help on structuring your blog.
 
 In general, writing for the web is different from writing for other media. You should break your text into fairly short paragraphs, and including images and links is highly encouraged!
 
 Replace this with your blog!
-*Blogging Team [5]**: Carolyn Chen, Yuezhang Chen, Stella Hession, Iman Mohamed, Salonee Verma
 
 # Marking Big Heading
 
